@@ -1,0 +1,8 @@
+server:
+  port: 80
+spring:
+  application:
+    name: hei-consumer
+  cloud:
+    nacos:
+      server-addr: localhost:8848
